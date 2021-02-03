@@ -1,8 +1,8 @@
 ## Game Guidez
 
-Html, bootstrap, firebase web application. You can register then see guides about games.
+Html, javascript, bootstrap, firebase web application. You can register then see guides about games.
 
-Html, bootstrap, firebase web uygulaması. Kaydolabilir ve ardından oyunlar hakkındaki kılavuzlara bakabilirsiniz.
+Html, javascript, bootstrap, firebase web uygulaması. Kaydolabilir ve ardından oyunlar hakkındaki kılavuzlara bakabilirsiniz.
 
 <p align="center">
   <img src="doc/test1.JPG">
